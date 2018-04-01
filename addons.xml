@@ -7,9 +7,9 @@
 		<datadir zip="true">http://raw.github.com/adritec/adritecrepo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Bem vindo ao Instalador de addons, uma nova forma para agilizar uma instalação de addons providas da Internet.</summary>
+		<summary lang="en">Bem vindo ao Instalador de addons, uma nova forma para agilizar uma instalaÃ§Ã£o de addons providas da Internet.</summary>
 		<description lang="en">[B][COLOR dodgerblue]Adritec[/COLOR][COLOR red]News[/COLOR][COLOR yellow] ON [/COLOR][/B]</description>
-		<disclaimer lang="en">[COLOR red][B]OBS: Addons providos da propria internet, Não tenho RESPONSABILIDADES![/B][/COLOR]</disclaimer>
+		<disclaimer lang="en">[COLOR red][B]OBS: Addons providos da propria internet, NÃ£o tenho RESPONSABILIDADES![/B][/COLOR]</disclaimer>
 		<forum>none</forum>
 		<source></source>
 		<website></website>
