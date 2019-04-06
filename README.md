@@ -1,6 +1,6 @@
 rickylistavip
 
 Addons da Internet para o Kodi XBMC
-by RickyLusta
+by RickyLista
 
 06/04/2019
