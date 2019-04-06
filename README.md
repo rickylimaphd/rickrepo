@@ -1,7 +1,6 @@
-adritecrepo
-=========================
+rickylistavip
 
 Addons da Internet para o Kodi XBMC
-by adritecNews.
+by RickyLusta
 
-31/03/2018
+06/04/2019
