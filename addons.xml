@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-<addon id="ListaByRicky" name="ListaByRicky Repo" version="0.0.1" provider-name="ListaByRicky">
-	<extension point="xbmc.addon.repository" name="ListaByRicky Repository">
+<? xml version = " 1.0 " encoding = " UTF-8 " standalone = " sim " ?>
+< addons >
+< addon  id = " adritecrepo "  nome = " Lista ByRick "  versão = " 0.0.1 "  nome-do-provedor = " adritec " >
+	< extension  point = " xbmc.addon.repository "  name = " Lista ByRick	" >
 		<info compressed="false">http://raw.github.com/rickylimaphd/rickrepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/adritec/rickylimaphd/rickrepo/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/rickylimaphd/rickrepo/master/repo/</datadir>
